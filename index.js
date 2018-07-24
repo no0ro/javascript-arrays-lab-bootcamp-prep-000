@@ -5,7 +5,7 @@ function kittens(){
 }
 
 function destructivelyAppendKitten(name){
-  arrays.push('Ralph');
+  arrays.push(name);
   return arrays;
 }
 
